@@ -1,5 +1,5 @@
-英文名：babylook
-中文名：宝贝你看
+英文名：babylook\n
+中文名：宝贝你看\n
     目的：帮助幼儿认知！
     系统:android
     开发工具：android studio
