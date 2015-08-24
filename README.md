@@ -3,9 +3,9 @@
 ====
 *中文名：宝贝你看<br>
 -------
-    目的：帮助幼儿认知！<br>
-    系统:android<br>
-    开发工具：android studio<br>
+    目的：帮助幼儿认知！
+    系统:android
+    开发工具：android studio
 	
 用户：1、认知缺陷 2、幼小儿童<br>
 功能：文字、音频、图片（多张<br>
